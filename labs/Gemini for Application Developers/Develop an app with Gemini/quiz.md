@@ -4,8 +4,8 @@ Run tests.
 
 Deploy code.
 
-*Explain code.*
+**Explain code.**
 
 Commit code to a repository.
 
-*Generate code.*
+**Generate code.**
